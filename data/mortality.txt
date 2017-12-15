@@ -1,0 +1,99 @@
+"Notes"	"State"	"State Code"	Deaths	Population	Age-Adjusted Rate	Age-Adjusted Rate Lower 95% Confidence Interval	Age-Adjusted Rate Upper 95% Confidence Interval	Age-Adjusted Rate Standard Error	Crude Rate	Crude Rate Lower 95% Confidence Interval	Crude Rate Upper 95% Confidence Interval	Crude Rate Standard Error
+	"Alabama"	"01"	501	74287441	0.62093	0.56743	0.67822	0.02791	0.67441	0.61664	0.73613	0.03013
+	"Alaska"	"02"	75	10887848	1.26175	0.97671	1.59486	0.15480	0.68884	0.54182	0.86347	0.07954
+	"Arizona"	"04"	739	95466108	0.72654	0.67489	0.78115	0.02684	0.77410	0.71928	0.83198	0.02848
+	"Arkansas"	"05"	248	45160576	0.48667	0.42766	0.55175	0.03107	0.54915	0.48293	0.62192	0.03487
+	"California"	"06"	4048	579627826	0.76469	0.74117	0.78874	0.01209	0.69838	0.67703	0.72023	0.01098
+	"Colorado"	"08"	451	76577066	0.67226	0.61087	0.73796	0.03207	0.58895	0.53584	0.64590	0.02773
+	"Connecticut"	"09"	549	56284211	0.85936	0.78836	0.93522	0.03700	0.97541	0.89551	1.06052	0.04163
+	"Delaware"	"10"	158	13749935	1.05478	0.89614	1.23398	0.08424	1.14910	0.97691	1.34290	0.09142
+	"District of Columbia"	"11"	33	9481178	0.36512	0.25041	0.51421	0.06413	0.34806	0.23959	0.48880	0.06059
+	"Florida"	"12"	2658	287636974	0.68272	0.65691	0.70938	0.01330	0.92408	0.88928	0.95989	0.01792
+	"Georgia"	"13"	598	146640086	0.47582	0.43785	0.51608	0.01977	0.40780	0.37577	0.44184	0.01668
+	"Hawaii"	"15"	109	20975038	0.46742	0.38334	0.56488	0.04503	0.51967	0.42670	0.62687	0.04977
+	"Idaho"	"16"	196	23480202	0.85480	0.73858	0.98396	0.06146	0.83475	0.72197	0.96015	0.05962
+	"Illinois"	"17"	1899	202796568	0.93249	0.89080	0.97562	0.02151	0.93641	0.89476	0.97949	0.02149
+	"Indiana"	"18"	868	101439338	0.83028	0.77570	0.88770	0.02832	0.85568	0.79970	0.91455	0.02904
+	"Iowa"	"19"	402	47998904	0.70389	0.63626	0.77704	0.03538	0.83752	0.75764	0.92353	0.04177
+	"Kansas"	"20"	307	44590047	0.64023	0.57017	0.71663	0.03678	0.68849	0.61362	0.76998	0.03929
+	"Kentucky"	"21"	461	67663560	0.64814	0.58994	0.71059	0.03039	0.68131	0.62053	0.74644	0.03173
+	"Louisiana"	"22"	718	71998483	1.00185	0.92939	1.07845	0.03766	0.99724	0.92562	1.07293	0.03722
+	"Maine"	"23"	365	21019152	1.40502	1.26378	1.55873	0.07396	1.73651	1.56291	1.92412	0.09089
+	"Maryland"	"24"	740	90147040	0.85006	0.78949	0.91401	0.03147	0.82088	0.76279	0.88222	0.03018
+	"Massachusetts"	"25"	1217	103858195	1.04756	0.98911	1.10864	0.03024	1.17179	1.10687	1.23952	0.03359
+	"Michigan"	"26"	1484	159347494	0.87203	0.82800	0.91784	0.02276	0.93130	0.88451	0.97992	0.02418
+	"Minnesota"	"27"	905	82885897	1.06132	0.99276	1.13338	0.03556	1.09186	1.02188	1.16538	0.03629
+	"Mississippi"	"28"	264	46680289	0.55873	0.49299	0.63080	0.03459	0.56555	0.49938	0.63805	0.03481
+	"Missouri"	"29"	704	93487606	0.68240	0.63273	0.73502	0.02582	0.75304	0.69843	0.81078	0.02838
+	"Montana"	"30"	177	15318644	0.99299	0.85102	1.15281	0.07523	1.15545	0.99150	1.33878	0.08685
+	"Nebraska"	"31"	247	28562077	0.79955	0.70230	0.90669	0.05122	0.86478	0.76029	0.97963	0.05502
+	"Nevada"	"32"	270	39520669	0.73071	0.64455	0.82495	0.04533	0.68319	0.60412	0.76973	0.04158
+	"New Hampshire"	"33"	223	20714993	1.02536	0.89422	1.17060	0.06919	1.07651	0.93985	1.22747	0.07209
+	"New Jersey"	"34"	1660	138897656	1.10222	1.04960	1.15685	0.02718	1.19512	1.13832	1.25403	0.02933
+	"New Mexico"	"35"	213	31429828	0.65409	0.56856	0.74894	0.04517	0.67770	0.58974	0.77508	0.04644
+	"New York"	"36"	2221	308314720	0.66869	0.64103	0.69725	0.01426	0.72037	0.69072	0.75096	0.01529
+	"North Carolina"	"37"	911	143785524	0.62319	0.58312	0.66530	0.02078	0.63358	0.59310	0.67610	0.02099
+	"North Dakota"	"38"	121	10643691	0.95583	0.79146	1.14574	0.08783	1.13682	0.94330	1.35836	0.10335
+	"Ohio"	"39"	1843	183677838	0.90089	0.86007	0.94320	0.02107	1.00339	0.95810	1.05027	0.02337
+	"Oklahoma"	"40"	374	58138317	0.60539	0.54530	0.67036	0.03146	0.64329	0.57974	0.71191	0.03326
+	"Oregon"	"41"	667	59010856	1.02306	0.94637	1.10446	0.03989	1.13030	1.04614	1.21943	0.04377
+	"Pennsylvania"	"42"	2644	200574546	1.05324	1.01328	1.09447	0.02058	1.31821	1.26844	1.36944	0.02564
+	"Rhode Island"	"44"	184	16921935	0.92681	0.79649	1.07321	0.06901	1.08735	0.93590	1.25631	0.08016
+	"South Carolina"	"45"	502	70351514	0.67777	0.61926	0.74038	0.03052	0.71356	0.65250	0.77880	0.03185
+	"South Dakota"	"46"	97	12688506	0.67307	0.54494	0.82308	0.06884	0.76447	0.61993	0.93259	0.07762
+	"Tennessee"	"47"	692	97711104	0.67044	0.62104	0.72277	0.02568	0.70821	0.65642	0.76300	0.02692
+	"Texas"	"48"	2063	378481323	0.64846	0.62051	0.67729	0.01441	0.54507	0.52180	0.56911	0.01200
+	"Utah"	"49"	246	41082045	0.80275	0.70469	0.90992	0.05165	0.59880	0.52631	0.67849	0.03818
+	"Vermont"	"50"	85	9929265	0.75463	0.60122	0.93674	0.08274	0.85606	0.68379	1.05853	0.09285
+	"Virginia"	"51"	1185	123120958	0.99505	0.93871	1.05385	0.02916	0.96247	0.90844	1.01887	0.02796
+	"Washington"	"53"	1258	102893237	1.24832	1.17966	1.31990	0.03552	1.22263	1.15599	1.29210	0.03447
+	"West Virginia"	"54"	401	29292181	1.09193	0.98705	1.20562	0.05485	1.36897	1.23824	1.50974	0.06836
+	"Wisconsin"	"55"	1013	89226178	1.04022	0.97677	1.10678	0.03288	1.13532	1.06647	1.20744	0.03567
+	"Wyoming"	"56"	102	8547706	1.16936	0.95122	1.42270	0.11706	1.19330	0.97299	1.44859	0.11815
+"Total"			40096	4793002373	0.80698	0.79906	0.81495	0.00405	0.83655	0.82838	0.84478	0.00418
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2014 Mortality"
+"Query Parameters:"
+"Title: Mesothelioma mortality by state"
+"Age Group: All"
+"Cancer Sites: Mesothelioma"
+"Ethnicity: All"
+"Race: All"
+"Sex: All"
+"State: All"
+"Year: All, 1999 to 2014"
+"Group By: State"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/CancerMort-v2014.html for more information."
+"---"
+"Query Date: Dec 15, 2017 2:08:03 PM"
+"---"
+"Suggested Citation: United States Cancer Statistics: 1999 - 2014 Mortality, WONDER Online Database. United States Department of"
+"Health and Human Services, Centers for Disease Control and Prevention; 2016. Accessed at"
+"http://wonder.cdc.gov/CancerMort-v2014.html on Dec 15, 2017 2:08:03 PM"
+"---"
+Caveats:
+"1. About rate comparisons: <ul><li> For consistency with the data on cancer incidence, the cancer sites in mortality data were"
+"grouped according to the revised SEER recodes dated January 27, 2003 (see SEER Cause of Death Recodes:"
+"http://seer.cancer.gov/codrecode/.). Because NCHS uses different groupings for some sites, the death rates in this report may"
+"differ slightly from those published by NCHS. In addition, under the ICD, there are differences in mortality and incidence"
+"coding. For example, there are several codes for mesothelioma in ICD-10 (depending on the primary site). However in ICD-O-3, one"
+"code captures all of the primary sites that mesothelioma affects. Note that Kaposi sarcoma deaths included in this dataset are"
+"only those deaths with underlying cause of death attributed to Kaposi Sarcoma, and do not include deaths where the condition was"
+"a contributing cause of death, or subsequent to another underlying condition. </li><li> The population used to age-adjust the"
+"rates in this report is the 2000 U.S. standard population, which is in accordance with a 1998 recommendation of the US."
+"Department of Health and Human Services. The 2000 U.S. standard population is based on the proportion of the 2000 population in"
+"specific age groups (younger than 1 year, 1-4 years, 5-9 years, 10-14 years, 15-19 years, . . . 85 years or older); the"
+"proportions of the 2000 population in these age groups serve as weights for calculating age-adjusted incidence and death rates."
+"NCHS, however, uses a different set of age groups in its age adjustment of death rates, and thus the cancer death rates in this"
+"report may differ slightly from those published by NCHS. </li><li> Deaths of persons of unknown age are not included in this"
+"data set. Death rates may differ slightly from other reports where deaths of persons of unknown age are included. </li></ul>"
+"2. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."
